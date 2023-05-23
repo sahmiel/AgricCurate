@@ -1,4 +1,5 @@
-![AgricCurate Logo]("C:\Users\Mogbolahan\Downloads\_b8f1502a-1bbd-4c2c-a3b7-881883ac906e.jpeg")
+![_b8f1502a-1bbd-4c2c-a3b7-881883ac906e](https://github.com/sahmiel/AgricCurate/assets/111711227/150cda90-2490-4337-8cfb-f122f6da2439)
+
 AgricCurate is an innovative platform designed to revolutionize the way agricultural courses are curated and accessed. It aims to provide a comprehensive and centralized hub for individuals interested in agricultural education, enabling them to discover, compare, and enroll in a wide range of agric courses from various sources across the web.
 
 The core problem that AgricCurate addresses is the fragmented nature of agricultural education resources available online. Currently, there is a lack of a unified platform that consolidates and organizes these resources, making it challenging for learners to find suitable courses that match their interests and goals. AgricCurate seeks to solve this problem by curating a diverse collection of agric courses from different providers, making it easier for users to explore and select the courses that best suit their needs.
@@ -18,5 +19,7 @@ To ensure the reliability and security of the platform, AgricCurate follows indu
 AgricCurate will be valuable for a wide range of users, including students, professionals, farmers, and agricultural enthusiasts who want to enhance their knowledge and skills in various areas of agriculture. It provides a convenient and centralized platform that simplifies the process of finding, comparing, and enrolling in agricultural courses, making it a valuable resource for anyone interested in agricultural education.
 
 It's important to note that AgricCurate is not limited to a specific locale. The platform aims to provide access to agricultural courses from various sources globally, ensuring that users from different regions can benefit from the platform's curated content.
+
+![Firefly AgricCurate-Agriculture Courses 107](https://github.com/sahmiel/AgricCurate/assets/111711227/44b62ac4-b7f9-4c45-9892-b7a695f737ef)
 
 In summary, AgricCurate is an innovative platform that addresses the challenges in accessing agricultural courses by providing a centralized hub for discovering, comparing, and enrolling in agric courses. With its user-friendly interface, comprehensive course catalog, recommendation engine, and social features, AgricCurate aims to enhance the learning experience and promote knowledge sharing in the field of agriculture.
